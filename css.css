@@ -1,0 +1,10 @@
+/* CSS */
+.box {
+    width: 100%;
+    height: auto;
+    margin-bottom: 0.5em;
+}
+.letter {
+    color: white;
+    font-weight: bold;
+}
